@@ -11,7 +11,7 @@ This week, we start looking at some technical aspects of bias and fairness in AI
 
 **Part 2: Practice** (_4 notebooks_)
 
-We look at a specific Supervised Learning problem where a company uses an algorithm in their hiring process to decide which candidates go to the next round. Candidates are labelled either "pass" (0) or "fail" (1).  This part contains 4 separate notebooks that are linked below. They are:
+We look at a specific Supervised Learning problem where a company uses an algorithm in their hiring process to decide which candidates go to the next round. Candidates are labelled either "pass" (0) or "fail" (1).  This part contains 4 separate notebooks:
 - Notebook 1: Explore the given data: find label distribution per group and look for proxies
 - Notebook 2: Measure model bias "by hand" using the following metrics: Statistical Parity, Disparate Impact, Equal Opportunity Difference
 - Notebook 3: Measure model bias using aif360
