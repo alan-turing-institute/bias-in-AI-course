@@ -4,13 +4,13 @@ Students of artificial intelligence will be given a conceptual introduction to f
 
 The session is divided into the following sections: 
 
-Part 1: Conceptual Approaches to Fairness
-Part 2: Legal Approaches (note: week 2 will have a thorough exploration) 
-Part 3: AI and Fairness
-Part 4: Governance
-Part 5: Case-Study: AI-driven Recruitment
-Part 6: Ethical Dilemmas
-Readings 
+- Part 1: Conceptual Approaches to Fairness
+- Part 2: Legal Approaches (note: week 2 will have a thorough exploration) 
+- Part 3: AI and Fairness
+- Part 4: Governance
+- Part 5: Case-Study: AI-driven Recruitment
+- Part 6: Ethical Dilemmas
+- Readings 
 
 Each section has a video associated with it and slides can be found for all sessions. 
 NOTE: Readings for each section can be found at the end of the slides. 
