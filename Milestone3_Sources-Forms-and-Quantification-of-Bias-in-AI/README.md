@@ -5,10 +5,10 @@ This week, we start looking at some technical aspects of bias and fairness in AI
 
 **Part 1: Theory** <br>
 _Material: 4 videos (with slide decks available) + supporting "cheatsheet" notebook_
-- Real-life examples of bias in algorithms
-- Type and sources of Bias
-- Quantification of Bias: different definitions of fairness and associate
-- How to choose a metric
+- Theory 1: Real-life examples of bias in algorithms
+- Theory 2: Type and sources of Bias
+- Theory 3: Quantification of Bias: different definitions of fairness and associate
+- Theory 4: How to choose a metric
 
 **Part 2: Practice** <br>
 _Material: 4 notebooks_ 
