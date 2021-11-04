@@ -3,7 +3,7 @@ This milestone is being led by Roseline Polle. It should take approximately four
 In this milestone, we start looking at some technical aspects of bias and fairness in AI: given a machine learning problem, how can we assess and measure bias? What are the different types of bias and where do they come from? The session is divided in two main parts:
 
 
-**Part 1: Theory** (_4 videos (with slide decks available) + supporting "cheatsheet" notebook_)
+**Part 1: Theory** (_4 videos with slides + supporting "cheatsheet" notebook_)
 - Theory 1: Real-life examples of bias in algorithms
 - Theory 2: Type and sources of Bias
 - Theory 3: Quantification of Bias: different definitions of fairness and associate
