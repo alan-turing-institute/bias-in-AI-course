@@ -6,7 +6,7 @@ In this milestone, we start looking at some technical aspects of bias and fairne
 **Part 1: Theory** (_4 videos with slides + supporting "cheatsheet" notebook_)
 - Theory 1: Real-life examples of bias in algorithms
 - Theory 2: Type and sources of Bias
-- Theory 3: Quantification of Bias: different definitions of fairness and associate
+- Theory 3: Quantification of Bias: different definitions of fairness and associated metrics
 - Theory 4: How to choose a metric
 
 **Part 2: Practice** (_4 notebooks_)
