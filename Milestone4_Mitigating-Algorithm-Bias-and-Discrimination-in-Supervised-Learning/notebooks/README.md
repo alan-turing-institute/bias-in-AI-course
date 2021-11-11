@@ -15,7 +15,7 @@ You can chose to download the notebooks on your machine and use them with Jupyte
 If the latter:
 
 - Make sure you copy them in your own Google Drive as the original files are not editable.
-- 
+
 If you use the notebooks locally:
 
 - The data can be downloaded here: TBC
