@@ -12,5 +12,6 @@ The session is divided into the following sections:
 - Part 6: Ethical Dilemmas
 - Readings 
 
-Each section has a video associated with it and slides can be found for all sessions. 
+Each section has a video associated with it and slides can be found for all sessions.
+
 NOTE: Readings for each section can be found at the end of the slides. 
