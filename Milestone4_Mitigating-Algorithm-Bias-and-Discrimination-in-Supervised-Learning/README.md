@@ -4,7 +4,7 @@ This week's content introduces mitigation strategies to improve fairness of supe
 
 **Part 1: Theory.** *(1 video with slides)* 
 
-Video covering: 
+[Video](https://www.youtube.com/watch?v=jcJn4_ezFOI) covering: 
   1. What are we mitigating for?
   2. What intervention techniques exist to mitigate
   3. Selecting a target fairness measure to mitigate
