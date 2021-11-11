@@ -6,12 +6,12 @@ We have divided the session up into short segments as explained in the introduct
 
 The sections are as follows:
 
-Introduction
-Part 1: Legislation and Regulatory Contexts
-Part 2: Personal Data Concepts: the GDPR and AI
-Part 3: GDPR in practice: RoPA
-Part 4: Impact Assessments
-Part 5 Case-Study: AI-driven Recruitment
-Part 6: Future gazing: ePrivacy and AI regulation
-Full Set of Activities and Readings
+- Introduction
+- Part 1: Legislation and Regulatory Contexts
+- Part 2: Personal Data Concepts: the GDPR and AI
+- Part 3: GDPR in practice: RoPA
+- Part 4: Impact Assessments
+- Part 5 Case-Study: AI-driven Recruitment
+- Part 6: Future gazing: ePrivacy and AI regulation
+- Full Set of Activities and Readings
 
