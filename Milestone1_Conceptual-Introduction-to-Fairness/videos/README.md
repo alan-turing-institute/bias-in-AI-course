@@ -10,7 +10,7 @@ Videos for Milestone 1 are available on Youtube at the following links:
     - Part 6: Ethical Dilemmas
     - Readings
 
-- [Part 1: Approaches to Fairness](https://youtu.be/nH5PqEbZGeU)
+- [Part 1: Approaches to Fairness](https://youtu.be/nH5PqEbZGeU) <br>
   In this part we will cover the following notions as they relate to fairness.  
     - Human Dignity
     - Theories of Fairness
@@ -19,14 +19,14 @@ Videos for Milestone 1 are available on Youtube at the following links:
     - Political Economy
     - Context of Fairness
 
-- [Part 2: Legal Approaches](https://youtu.be/RXkFE2qYD9Q)
+- [Part 2: Legal Approaches](https://youtu.be/RXkFE2qYD9Q) <br>
   Legal Approaches - what we will cover: 
     - Anti Discrimination Legislation
     - UK, EU, US
     - 'Protected Characteristics'
     - Substantive justice
 
-- [Part 3: AI and Fairness](https://youtu.be/hC11j_7gIkY)
+- [Part 3: AI and Fairness](https://youtu.be/hC11j_7gIkY) <br>
   What we will cover: 
     - High profile harm
     - AI’s fairness problem
@@ -35,7 +35,7 @@ Videos for Milestone 1 are available on Youtube at the following links:
     - Ethical by Design
     - Which fairness?
 
-- [Part 4: Governance](https://youtu.be/FUBxc88WFcc)
+- [Part 4: Governance](https://youtu.be/FUBxc88WFcc) <br>
   What we will cover: 
     - EU AI Regulation
     - Risk Management System
@@ -43,7 +43,7 @@ Videos for Milestone 1 are available on Youtube at the following links:
     - Performance Assessments
     - Fairness Metrics
 
-- [Part 5: Case-Study – Recruitment](https://youtu.be/AvXg18xZXeU)
+- [Part 5: Case-Study – Recruitment](https://youtu.be/AvXg18xZXeU) <br>
   What we will cover: 
     - AI-Driven Recruitment Industry 
     - Ethics 
@@ -51,7 +51,7 @@ Videos for Milestone 1 are available on Youtube at the following links:
     - What is being assessed?
     - Audit
 
-- [Part 6: Ethical Dilemmas](https://youtu.be/95JWnJWfCvw)
+- [Part 6: Ethical Dilemmas](https://youtu.be/95JWnJWfCvw) <br>
   What we will cover: 
     - Monitoring at work  
     - Recidivism Calculation 
