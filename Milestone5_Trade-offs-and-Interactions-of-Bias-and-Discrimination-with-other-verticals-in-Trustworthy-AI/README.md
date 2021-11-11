@@ -2,14 +2,15 @@ This week's session is being led by Roseline Polle. It should take approximately
 
 This week, we explore how other verticals of trustworthy AI interact with fairness. For each vertical covered (Explainability, Privacy and Robustness), we give an overview of the vertical itself before exploring its interaction with fairness. 
 
-The session is divided in two main parts:
+The session, is divided in two main parts:
+
 
 **Part 1: Theory.** *(4 videos with slide + supporting "cheatsheet" notebook)*
 - [Cheatsheet Notebook](https://colab.research.google.com/drive/1NxtpAqCOpuPMQGBoXh3_7j7UeJA7i3V6)
-- [Introduction to trustworthy AI](https://youtu.be/aiXSZ5bfmVU)
-- [Explainability](https://youtu.be/Dg6NVjNxvRE)
-- [Privacy](https://youtu.be/VSIwLkNYK4c)
-- [Robustness](https://youtu.be/oeQbTyDEAJY)
+- [Theory 1: Introduction to trustworthy AI](https://youtu.be/aiXSZ5bfmVU)
+- [Theory 2: Explainability](https://youtu.be/Dg6NVjNxvRE)
+- [Theory 3: Privacy](https://youtu.be/VSIwLkNYK4c)
+- [Theory 4: Robustness](https://youtu.be/oeQbTyDEAJY)
 
 **Part 2: Practice.** *(1 notebook)*
 
