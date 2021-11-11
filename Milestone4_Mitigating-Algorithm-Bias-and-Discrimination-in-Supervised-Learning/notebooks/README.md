@@ -14,8 +14,9 @@ You can chose to download the notebooks on your machine and use them with Jupyte
 
 If the latter:
 
-Make sure you copy them in your own Google Drive as the original files are not editable.
+- Make sure you copy them in your own Google Drive as the original files are not editable.
+- 
 If you use the notebooks locally:
 
-The data can be downloaded here: https://docs.google.com/uc?export=download&id=1-Wd1evAoDs4YsjRLfC-ifarmQL-Ozg3R.
-Make sure to save the data in the same folder as the notebooks.
+- The data can be downloaded here: TBC
+- Make sure to save the data in the same folder as the notebooks.
