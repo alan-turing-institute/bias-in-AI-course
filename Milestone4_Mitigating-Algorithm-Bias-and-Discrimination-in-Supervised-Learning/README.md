@@ -3,7 +3,7 @@ This week's session is being led by Catherine Inness. It should take approximate
 This week's content introduces mitigation strategies to improve fairness of supervised learning models. By the end of this week, you will be able to select, implement and evaluate example methods from the three families of technical intervention: pre-processing, in-processing and post-processing.
 
 **Part 1: Theory.** *(1 video with slides)* <br>
-- Video covering: 
+Video covering: 
   1. What are we mitigating for?
   2. What intervention techniques exist to mitigate
   3. Selecting a target fairness measure to mitigate
