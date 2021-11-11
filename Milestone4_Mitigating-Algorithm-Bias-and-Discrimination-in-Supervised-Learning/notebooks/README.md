@@ -8,3 +8,14 @@ There are 3 practice notebooks:
   
 - [Practice Notebook 3: Post-processing technique: Equalised Odds Post-processing](https://colab.research.google.com/drive/1hkLxC3HS9O8baIyoi7FF4eLgj1_kq42G?usp=sharing) <br>
   The Equalised Odds Post-Processing approach flips predictions until a desired error rate distribution between the protected group and the rest of the sample is achieved.  This notebook gives you the opportunity to implement it using AIF360.
+  
+**Practice Instructions:** <br>
+You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above.
+
+If the latter:
+
+Make sure you copy them in your own Google Drive as the original files are not editable.
+If you use the notebooks locally:
+
+The data can be downloaded here: https://docs.google.com/uc?export=download&id=1-Wd1evAoDs4YsjRLfC-ifarmQL-Ozg3R.
+Make sure to save the data in the same folder as the notebooks.
