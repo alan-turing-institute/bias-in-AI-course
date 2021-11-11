@@ -20,10 +20,9 @@ We look at a specific Supervised Learning problem where a company uses an algori
 - [Notebook 4: Use bootstrap sampling to get a confidence interval for each metric](https://colab.research.google.com/drive/1fBugsn1-6JknonL-DJMFacmyhc1BtyqG)
 
 
-**Practice Instructions:** You can chose to download the notebooks on your machine and use them with jupyter, or open them directly through Google Colab. 
+**Practice Instructions:** You can chose to download the notebooks on your machine and use them with jupyter, or open them directly through Google Colab y clicking on the links above. 
 If the latter:
 - Make sure you copy them in your own Google Drive as the original files are not editable.
-<!-- - When clicking on a notebook link, right click and open in a new tab as otherwise it will leave the Moodle page by default. -->
 
 If you use the notebooks locally:
 - The data can be downloaded here: https://docs.google.com/uc?export=download&id=1-Wd1evAoDs4YsjRLfC-ifarmQL-Ozg3R. 
