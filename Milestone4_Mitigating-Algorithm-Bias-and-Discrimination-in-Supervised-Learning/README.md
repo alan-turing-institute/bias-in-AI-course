@@ -27,5 +27,7 @@ If the latter:
 - Make sure you copy them in your own Google Drive as the original files are not editable.
 
 If you use the notebooks locally:
-- The data can be downloaded here: TBC
+- The data can be downloaded from the "notebooks" folder (hiring.pkl)
 - Make sure to save the data in the same folder as the notebooks. 
+
+Note that the data for Milestone 4 is slighlty different than the data for Milestone 3 and 5 (but the data for 3 & 5 is the same).
