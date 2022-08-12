@@ -6,7 +6,7 @@ The session, is divided in two main parts:
 
 
 **Part 1: Theory.** *(4 videos with slide + supporting "cheatsheet" notebook)*
-- [Cheatsheet Notebook](https://colab.research.google.com/drive/1NxtpAqCOpuPMQGBoXh3_7j7UeJA7i3V6)
+- [Cheatsheet Notebook](https://github.com/alan-turing-institute/bias-in-AI-course/blob/main/Milestone5_Trade-offs-and-Interactions-of-Bias-and-Discrimination-with-other-verticals-in-Trustworthy-AI/Milestone5_Theory_Supporting%20Notebook_CheatSheet.ipynb)
 - [Theory 1: Introduction to trustworthy AI](https://youtu.be/aiXSZ5bfmVU)
 - [Theory 2: Explainability](https://youtu.be/Dg6NVjNxvRE)
 - [Theory 3: Privacy](https://youtu.be/VSIwLkNYK4c)
