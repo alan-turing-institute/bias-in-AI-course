@@ -14,7 +14,7 @@ In this milestone, we start looking at some technical aspects of bias and fairne
 **Part 2: Practice** (_4 notebooks_)
 
 We look at a specific Supervised Learning problem where a company uses an algorithm in their hiring process to decide which candidates go to the next round. Candidates are labelled either "pass" (0) or "fail" (1).  This part contains 4 separate notebooks:
-<!-- - [Notebook 1: Explore the given data: find label distribution per group and look for proxies](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_1_Explore_data.ipynb)#(https://colab.research.google.com/drive/17X2XUo82zIROwuEU0KUylCJGAr7TAco5)
+<!-- - [Notebook 1: Explore the given data: find label distribution per group and look for proxies](https://colab.research.google.com/drive/17X2XUo82zIROwuEU0KUylCJGAr7TAco5)
 - [Notebook 2: Measure model bias "by hand" using the following metrics: Statistical Parity, Disparate Impact, Equal Opportunity Difference](https://colab.research.google.com/drive/179V-zinJPttr4xIzFOgxsGgm2Z62Boco)
 - [Notebook 3: Measure model bias using aif360](https://colab.research.google.com/drive/1BJK41oaJRmegdoh4TKp0XfrrXZPF4TRI)
 - [Notebook 4: Use bootstrap sampling to get a confidence interval for each metric](https://colab.research.google.com/drive/1fBugsn1-6JknonL-DJMFacmyhc1BtyqG)
