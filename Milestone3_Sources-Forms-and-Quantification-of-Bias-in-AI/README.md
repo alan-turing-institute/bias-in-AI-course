@@ -21,7 +21,7 @@ We look at a specific Supervised Learning problem where a company uses an algori
 -->
 - [Notebook 1: Explore the given data: find label distribution per group and look for proxies](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_1_Explore_data.ipynb)
 - [Notebook 2: Measure model bias "by hand" using the following metrics: Statistical Parity, Disparate Impact, Equal Opportunity Difference](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_2_Evaluate_fairness_metrics_manually.ipynb)
-- [Notebook 3: Measure model bias using holisticai library](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_3_Evaluate_fairness_metrics_with_aif360.ipynb)
+- [Notebook 3: Measure model bias using holisticai library](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_3_Evaluate_fairness_metrics_with_holisticai.ipynb)
 - [Notebook 4: Use bootstrap sampling to get a confidence interval for each metric](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/notebooks/M3_Practice_4_Example_code_get_a_confidence_interval.ipynb)
 
 
