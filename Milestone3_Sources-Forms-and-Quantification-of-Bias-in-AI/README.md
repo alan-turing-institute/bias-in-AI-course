@@ -5,7 +5,7 @@ In this milestone, we start looking at some technical aspects of bias and fairne
 [Introduction video](https://youtu.be/_1-5o6lsELE)
 
 **Part 1: Theory** (_4 videos with slides + supporting "cheatsheet" notebook_)
-- [Cheatsheet Notebook](https://github.com/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/M3_Theory_Supporting%20Notebook_CheatSheet.ipynb)
+- [Cheatsheet Notebook](https://github.com/alan-turing-institute/bias-in-AI-course/blob/main/Milestone3_Sources-Forms-and-Quantification-of-Bias-in-AI/M3_Theory_SupportingNotebook_CheatSheet.ipynb)
 - [Theory 1: Real-life examples of bias in algorithms](https://youtu.be/NF8VRGJDI_g)
 - [Theory 2: Sources of Bias](https://youtu.be/k6LGIngVhac)
 - [Theory 3: Fairness definitions and metrics](https://youtu.be/OniWmcNKNRI)
