@@ -13,9 +13,6 @@ This week's content introduces mitigation strategies to improve fairness of supe
 
 **Part 2: Practice.** *(3 notebooks)* <br>
 We look at the same Supervised Learning problem as in week 3: a company uses an algorithm in their hiring process to decide which candidates go to the next round. Candidates are labelled either "pass" (0) or "fail" (1).  This part contains 3 separate notebooks that are linked below. They are:
-<!-- - [Notebook 1: Algorithm Pre-processing example: Reweighing (Kamiran and Calders 2012)](https://colab.research.google.com/drive/19SIPcIkM91J8P6CJOJ6UkWd57W06wTxB?usp=sharing)
-- [Notebook 2: Algorithm In-processing example: Reductions (Argarwal et al 2018)](https://colab.research.google.com/drive/1G3qb1xfhuiFjfaa1BcrE8PFKFhYrOGeD?usp=sharing)
-- [Notebook 3: Algorithm Post-processing example: Equalised Odds Post-processing (Hardt et al 2016)](https://colab.research.google.com/drive/1hkLxC3HS9O8baIyoi7FF4eLgj1_kq42G?usp=sharing) -->
 - [Notebook 1: Algorithm Pre-processing example: Reweighing (Kamiran and Calders 2012)](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone4_Mitigating-Algorithm-Bias-and-Discrimination-in-Supervised-Learning/notebooks/Notebook1_Preprocessing_instructions.ipynb)
 - [Notebook 2: Algorithm In-processing example: Reductions (Argarwal et al 2018)](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone4_Mitigating-Algorithm-Bias-and-Discrimination-in-Supervised-Learning/notebooks/Notebook2_Inprocessing_instructions.ipynb)
 - [Notebook 3: Algorithm Post-processing example: Equalised Odds Post-processing (Hardt et al 2016)](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone4_Mitigating-Algorithm-Bias-and-Discrimination-in-Supervised-Learning/notebooks/Notebook3_Postprocessing_instructions.ipynb)
