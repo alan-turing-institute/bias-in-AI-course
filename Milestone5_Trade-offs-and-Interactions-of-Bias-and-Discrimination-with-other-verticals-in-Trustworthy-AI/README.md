@@ -16,7 +16,7 @@ The session, is divided in two main parts:
 
 We still look at the hiring Supervised Learning problem used for Milestone 3 and 4, where a company uses an algorithm in their hiring process to decide which candidates go to the next round. Candidates are labelled either "pass" (0) or "fail" (1).  
 - [Notebook: Exploring Explainability techniques](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone5_Trade-offs-and-Interactions-of-Bias-and-Discrimination-with-other-verticals-in-Trustworthy-AI
-/notebooks/M3_Practice_1_Explore_data.ipynb)
+/notebooks/M5_Practice_Explainability.ipynb)
 
 
 **Practice Instructions:**<br>
