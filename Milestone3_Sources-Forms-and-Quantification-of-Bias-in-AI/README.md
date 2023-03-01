@@ -21,9 +21,6 @@ We look at a specific Supervised Learning problem where a company uses an algori
 
 
 **Practice Instructions:** <br>
-You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above. 
-
-If the latter:
-- Make sure you copy them in your own Google Drive as the original files are not editable.
+You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above. If the latter, make sure you copy them in your own Google Drive as the original files are not editable.
 
 The data is downloaded directly from openML in the notebooks. 
