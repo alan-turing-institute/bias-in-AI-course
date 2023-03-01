@@ -10,16 +10,7 @@ There are 3 practice notebooks:
   The Equalised Odds Post-Processing approach flips predictions until a desired error rate distribution between the protected group and the rest of the sample is achieved.  This notebook gives you the opportunity to implement it using the holisticai library.
   
 **Practice Instructions:** <br>
-You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above.
+You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above. If the latter, make sure you copy them in your own Google Drive as the original files are not editable.
 
-If the latter:
-
-- Make sure you copy them in your own Google Drive as the original files are not editable.
-
-If you use the notebooks locally:
-
-- The data can be downloaded above (hiring.pkl)
-- Make sure to save the data in the same folder as the notebooks.
-
-Note that the data for Milestone 4 is slighlty different than the data for Milestone 3 and 5 (but the data for 3 & 5 is the same).
+The data is downloaded directly from openML in the notebooks. 
  
