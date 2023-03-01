@@ -18,13 +18,6 @@ We look at the same Supervised Learning problem as in week 3: a company uses an 
 - [Notebook 3: Algorithm Post-processing example: Equalised Odds Post-processing (Hardt et al 2016)](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone4_Mitigating-Algorithm-Bias-and-Discrimination-in-Supervised-Learning/notebooks/Notebook3_Postprocessing_instructions.ipynb)
 
 **Practice Instructions:** <br>
-You can choose to download the notebooks on your machine and use them with jupyter, or open them directly through Google Colab. 
+You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above. If the latter, make sure you copy them in your own Google Drive as the original files are not editable.
 
-If the latter:
-- Make sure you copy them in your own Google Drive as the original files are not editable.
-
-If you use the notebooks locally:
-- The data can be downloaded from the "notebooks" folder (hiring.pkl)
-- Make sure to save the data in the same folder as the notebooks. 
-
-Note that the data for Milestone 4 is slighlty different than the data for Milestone 3 and 5 (but the data for 3 & 5 is the same).
+The data is downloaded directly from openML in the notebooks. 
