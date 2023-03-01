@@ -18,14 +18,7 @@ We still look at the hiring Supervised Learning problem used for Milestone 3 and
 - [Notebook: Exploring Explainability techniques](https://colab.research.google.com/github/alan-turing-institute/bias-in-AI-course/blob/main/Milestone5_Trade-offs-and-Interactions-of-Bias-and-Discrimination-with-other-verticals-in-Trustworthy-AI/notebooks/M5_Practice_Explainability.ipynb)
 
 
-**Practice Instructions:**<br>
-You can chose to download the notebook on your machine and use it with Jupyter, or open it directly through Google Colab. 
+**Practice Instructions:** <br>
+You can chose to download the notebooks on your machine and use them with Jupyter, or open them directly through Google Colab by clicking on the links above. If the latter, make sure you copy them in your own Google Drive as the original files are not editable.
 
-If the latter:
-- Make sure you copy them in your own Google Drive as the original file is not editable.
-
-If you use the notebooks locally:
-- The data can be downloaded from the "notebooks" folder (data.pickle).
-- Make sure to save the data in the same folder as the notebooks. 
-
-Note that the data for Milestone 4 is slighlty different than the data for Milestone 3 and 5 (but the data for 3 & 5 is the same).
+The data is downloaded directly from openML in the notebooks. 
